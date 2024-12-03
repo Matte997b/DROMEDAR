@@ -1,0 +1,493 @@
+ERA5
+Command run: cdo -L -b f64 ymonpctl,2.275 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmin /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmax /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275.nc
+Output: 
+Command run: cdo -L -b f64 ymonpctl,2.275 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmin /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmax /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275.nc
+Output: 
+Command run: cdo -b f64 cat /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_ext.nc
+Output: 
+Command run: cdo -L -b f64 ymonpctl,6.681 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmin /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmax /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681.nc
+Output: 
+Command run: cdo -L -b f64 ymonpctl,6.681 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmin /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmax /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681.nc
+Output: 
+Command run: cdo -b f64 cat /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_ext.nc
+Output: 
+Command run: cdo -L -b f64 ymonpctl,15.866 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmin /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmax /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866.nc
+Output: 
+Command run: cdo -L -b f64 ymonpctl,15.866 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmin /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmax /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866.nc
+Output: 
+Command run: cdo -b f64 cat /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_ext.nc
+Output: 
+Command run: cdo -L -b f64 ymonpctl,84.134 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmin /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmax /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134.nc
+Output: 
+Command run: cdo -L -b f64 ymonpctl,84.134 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmin /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmax /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134.nc
+Output: 
+Command run: cdo -b f64 cat /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_ext.nc
+Output: 
+Command run: cdo -L -b f64 ymonpctl,93.319 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmin /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmax /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319.nc
+Output: 
+Command run: cdo -L -b f64 ymonpctl,93.319 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmin /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmax /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319.nc
+Output: 
+Command run: cdo -b f64 cat /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_ext.nc
+Output: 
+Command run: cdo -L -b f64 ymonpctl,97.725 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmin /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmax /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725.nc
+Output: 
+Command run: cdo -L -b f64 ymonpctl,97.725 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmin /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -ymonmax /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725.nc
+Output: 
+Command run: cdo -b f64 cat /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_ext.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,01 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,01 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_2.275_mon01.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,01 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,01 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_6.681_mon01.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,01 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,01 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_15.866_mon01.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,01 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,01 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_84.134_mon01.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,01 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,01 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_93.319_mon01.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc
+Error in the command execution: Command '['cdo', 'seltimestep,1/133', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc']' returned non-zero exit status 1.
+Command run: cdo ge -selmon,01 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,01 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_97.725_mon01.nc
+Output: 
+Command run: cdo enssum /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_*_mon01.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/SPI_01.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,02 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,02 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_2.275_mon02.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,02 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,02 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_6.681_mon02.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,02 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,02 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_15.866_mon02.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,02 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,02 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_84.134_mon02.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,02 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,02 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_93.319_mon02.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc
+Error in the command execution: Command '['cdo', 'seltimestep,1/133', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc']' returned non-zero exit status 1.
+Command run: cdo ge -selmon,02 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,02 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_97.725_mon02.nc
+Output: 
+Command run: cdo enssum /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_*_mon02.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/SPI_02.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,03 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,03 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_2.275_mon03.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,03 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,03 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_6.681_mon03.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,03 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,03 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_15.866_mon03.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,03 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,03 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_84.134_mon03.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,03 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,03 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_93.319_mon03.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc
+Error in the command execution: Command '['cdo', 'seltimestep,1/133', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc']' returned non-zero exit status 1.
+Command run: cdo ge -selmon,03 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,03 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_97.725_mon03.nc
+Output: 
+Command run: cdo enssum /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_*_mon03.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/SPI_03.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,04 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,04 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_2.275_mon04.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,04 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,04 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_6.681_mon04.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,04 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,04 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_15.866_mon04.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,04 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,04 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_84.134_mon04.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,04 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,04 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_93.319_mon04.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc
+Error in the command execution: Command '['cdo', 'seltimestep,1/133', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc']' returned non-zero exit status 1.
+Command run: cdo ge -selmon,04 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,04 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_97.725_mon04.nc
+Output: 
+Command run: cdo enssum /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_*_mon04.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/SPI_04.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,05 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,05 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_2.275_mon05.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,05 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,05 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_6.681_mon05.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,05 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,05 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_15.866_mon05.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,05 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,05 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_84.134_mon05.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,05 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,05 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_93.319_mon05.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc
+Error in the command execution: Command '['cdo', 'seltimestep,1/133', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc']' returned non-zero exit status 1.
+Command run: cdo ge -selmon,05 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,05 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_97.725_mon05.nc
+Output: 
+Command run: cdo enssum /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_*_mon05.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/SPI_05.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,06 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,06 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_2.275_mon06.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,06 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,06 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_6.681_mon06.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,06 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,06 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_15.866_mon06.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,06 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,06 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_84.134_mon06.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,06 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,06 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_93.319_mon06.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc
+Error in the command execution: Command '['cdo', 'seltimestep,1/133', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc']' returned non-zero exit status 1.
+Command run: cdo ge -selmon,06 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,06 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_97.725_mon06.nc
+Output: 
+Command run: cdo enssum /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_*_mon06.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/SPI_06.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,07 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,07 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_2.275_mon07.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,07 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,07 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_6.681_mon07.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,07 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,07 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_15.866_mon07.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,07 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,07 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_84.134_mon07.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,07 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,07 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_93.319_mon07.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc
+Error in the command execution: Command '['cdo', 'seltimestep,1/133', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc']' returned non-zero exit status 1.
+Command run: cdo ge -selmon,07 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,07 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_97.725_mon07.nc
+Output: 
+Command run: cdo enssum /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_*_mon07.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/SPI_07.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,08 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,08 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_2.275_mon08.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,08 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,08 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_6.681_mon08.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,08 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,08 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_15.866_mon08.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,08 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,08 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_84.134_mon08.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,08 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,08 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_93.319_mon08.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc
+Error in the command execution: Command '['cdo', 'seltimestep,1/133', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc']' returned non-zero exit status 1.
+Command run: cdo ge -selmon,08 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,08 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_97.725_mon08.nc
+Output: 
+Command run: cdo enssum /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_*_mon08.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/SPI_08.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,09 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,09 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_2.275_mon09.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,09 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,09 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_6.681_mon09.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,09 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,09 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_15.866_mon09.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,09 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,09 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_84.134_mon09.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,09 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,09 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_93.319_mon09.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc
+Error in the command execution: Command '['cdo', 'seltimestep,1/133', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc']' returned non-zero exit status 1.
+Command run: cdo ge -selmon,09 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,09 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_97.725_mon09.nc
+Output: 
+Command run: cdo enssum /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_*_mon09.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/SPI_09.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,10 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,10 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_2.275_mon10.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,10 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,10 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_6.681_mon10.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,10 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,10 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_15.866_mon10.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,10 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,10 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_84.134_mon10.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,10 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,10 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_93.319_mon10.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc
+Error in the command execution: Command '['cdo', 'seltimestep,1/133', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc']' returned non-zero exit status 1.
+Command run: cdo ge -selmon,10 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,10 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_97.725_mon10.nc
+Output: 
+Command run: cdo enssum /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_*_mon10.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/SPI_10.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,11 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,11 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_2.275_mon11.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,11 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,11 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_6.681_mon11.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,11 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,11 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_15.866_mon11.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,11 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,11 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_84.134_mon11.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,11 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,11 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_93.319_mon11.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc
+Error in the command execution: Command '['cdo', 'seltimestep,1/133', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc']' returned non-zero exit status 1.
+Command run: cdo ge -selmon,11 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,11 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_97.725_mon11.nc
+Output: 
+Command run: cdo enssum /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_*_mon11.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/SPI_11.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,12 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,12 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_2.275_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_2.275_mon12.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,12 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,12 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_6.681_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_6.681_mon12.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,12 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,12 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_15.866_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_15.866_mon12.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,12 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,12 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_84.134_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_84.134_mon12.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc
+Output: 
+Command run: cdo ge -selmon,12 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,12 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_93.319_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_93.319_mon12.nc
+Output: 
+Command run: cdo settaxis,1940-01-01,00:00:00,1mon /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_ext.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc
+Output: 
+Command run: cdo seltimestep,1/133 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc
+Error in the command execution: Command '['cdo', 'seltimestep,1/133', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn.nc', '/work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc']' returned non-zero exit status 1.
+Command run: cdo ge -selmon,12 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/runsum.nc -selmon,12 /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/percen_97.725_algn_lmt.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_97.725_mon12.nc
+Output: 
+Command run: cdo enssum /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/ge_*_mon12.nc /work_big/users/dromedar/bordoni/home/datasets/tp_ERA5/tmp_SPI/SPI_12.nc
+Output: 
